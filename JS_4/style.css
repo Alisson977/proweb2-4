@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(68, 67, 67);
+}
+#main, #resultado{
+    width: 200px;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    background-color: rgb(136, 132, 132);
+}
+
+input, button{
+    margin-top: 20px;
+}
+
+.hide{
+    display: none;
+}
