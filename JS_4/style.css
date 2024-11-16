@@ -8,7 +8,9 @@ body{
     margin: auto;
     background-color: rgb(136, 132, 132);
 }
-
+#resultado{
+    display: none;
+}
 input, button{
     margin-top: 20px;
 }
